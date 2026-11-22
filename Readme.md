@@ -1,12 +1,12 @@
 
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B2F,100:00FF88&height=200&section=header&text=AYUSH%20RAJ&fontSize=45&fontColor=00FF88&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=17"/>
+<!-- Animated Hacker Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B2F,100:00FF88&height=200&section=header&text=AYUSH%20RAJ&fontSize=45&fontColor=00FF88&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Python%20Developer&descAlignY=60&descSize=16"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/AyushNull">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Building+Projects+One+Commit+At+A+Time;Python+%7C+JavaScript+%7C+PHP;API+Development+%7C+Automation;Exploring+Cybersecurity;Always+Learning+Something+New" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Python+Automation+%7C+API+Development;Exploring+Ethical+Hacking+%26+Security;Learning+Application+Security;Building+Secure+Applications;Always+Learning%2C+Always+Exploring" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -15,48 +15,55 @@
 <a href="https://github.com/AyushNull">
 <img src="https://komarev.com/ghpvc/?username=AyushNull&label=PROFILE+VIEWS&color=00FF88&style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/AyushNull?tab=followers">
 <img src="https://img.shields.io/github/followers/AyushNull?label=FOLLOWERS&style=for-the-badge&color=003B2F"/>
 </a>
+
 <a href="https://github.com/AyushNull?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-Explore-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REPOSITORIES-Explore-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🔐 About Me
 
 ```yaml
 name: Ayush Raj
 github: AyushNull
 location: India
-role: Software Developer
+role: Aspiring Cybersecurity Professional
 
-interests:
+focus:
   - Cybersecurity
   - Python Automation
   - API Development
+  - Application Security
+
+interests:
+  - Ethical Hacking
+  - Security Research
   - Full-Stack Development
   - App Development
   - Open Source Contributions
 
-currently_exploring:
-  - Backend Development
-  - Cloud Technologies
+currently_learning:
   - Cybersecurity
-  - Software Development
+  - Application Security
+  - Secure API Development
 
-motto: "Learn. Build. Improve. Repeat."
+philosophy: "Learn. Secure. Build. Repeat."
 ```
 
-- 🔭 Exploring software development and practical programming.
-- 🐍 Interested in Python automation and backend development.
-- 🔐 Passionate about learning cybersecurity.
-- ⚡ Building applications and REST APIs.
-- 🌱 Continuously learning new technologies.
+- 🔐 Aspiring Cybersecurity Professional passionate about learning security.
+- 🐍 Interested in Python automation and security-related programming.
+- 🌐 Exploring API development and application security.
+- 💻 Experienced with Python, JavaScript, PHP and web technologies.
+- ☁️ Exploring cloud platforms and deployment technologies.
 - 🤝 Interested in open-source contributions.
+- 🚀 Always learning and building new things.
 
 ---
 
@@ -77,7 +84,7 @@ motto: "Learn. Build. Improve. Repeat."
 ### ⚙️ Backend & API Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,php,python" />
+<img src="https://skillicons.dev/icons?i=fastapi,python,php" />
 </p>
 
 ### 🗄️ Databases
@@ -89,7 +96,7 @@ motto: "Learn. Build. Improve. Repeat."
 ### ☁️ Cloud & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify,render" />
 </p>
 
 ### 🔧 Tools & Platforms
@@ -97,6 +104,19 @@ motto: "Learn. Build. Improve. Repeat."
 <p>
 <img src="https://skillicons.dev/icons?i=github,vscode,windows,linux,ubuntu" />
 </p>
+
+---
+
+## 🎯 Cybersecurity Interests
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python%20Automation-003B2F?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Security-00FF88?style=for-the-badge&logo=fastapi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Application%20Security-003B2F?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -127,8 +147,6 @@ motto: "Learn. Build. Improve. Repeat."
 ---
 
 ## 🚀 My Projects
-
-Explore my repositories and projects:
 
 <div align="center">
 
@@ -164,7 +182,7 @@ Explore my repositories and projects:
 
 ### 💚 Thanks for Visiting My Profile!
 
-*"Code is not just about solving problems; it's about creating possibilities."*
+*"Think Secure. Code Smart. Keep Learning."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B2F,100:00FF88&height=100&section=footer"/>
 
