@@ -93,11 +93,16 @@ philosophy: "Learn. Secure. Build. Repeat."
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
 </p>
 
+
 ### ☁️ Cloud & Deployment
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify,render" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify" />
+  <a href="https://render.com">
+    <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+  </a>
 </p>
+
 
 ### 🔧 Tools & Platforms
 
